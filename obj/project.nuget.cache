@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/HzU8g6ZCu9UGvusx22gF9YN3AECHqjDXmHvCufCGKJL0eKUnFvBfc1jt6J1l9F0MZc9Wz4bo7r0SXSj0kcVaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cmila\\OneDrive\\Área de Trabalho\\Interface-MediaPlayer\\Interface-MediaPlayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cmila\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
